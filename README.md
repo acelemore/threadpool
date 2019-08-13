@@ -1,2 +1,4 @@
 # threadpool
-简单线程池
+easy threadpool for unix
+
+read threadpool.h for details
